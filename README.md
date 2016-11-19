@@ -1,32 +1,25 @@
 ﻿# visualStudioTesting
 
-Project Name
+###Project Name
 
-TODO: Write a project description
+Visual Studio Testing
 
-Installation
+###Installation
 
-TODO: Describe the installation process
+Start new .NET Core Project in desired directory.
 
-Usage
+###Usage
 
-TODO: Write usage instructions
+Within Visual Studio, run the project from the Debugger Menu. 
 
-Contributing
+###History
 
-Fork it!
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -am 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request :D
-History
+2016/11/19: Test Project created
 
-TODO: Write history
+###Credits
 
-Credits
+Thom Shavor, Software Developer
 
-TODO: Write credits
+###License
 
-License
-
-TODO: Write license
+None
